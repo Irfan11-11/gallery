@@ -1,0 +1,24 @@
+.c{
+    width: 18%;
+    border: white solid 10px;
+
+    /* we can arrage boxes like oder by one by one we will use float property */
+    float: left;
+    background-color: black;
+}
+
+/* we can arrage image properlly */
+img{
+    width: 100%;
+    height: 300px;
+}
+
+p{
+    color: white;
+    padding: 8px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+}
